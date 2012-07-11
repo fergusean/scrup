@@ -79,7 +79,7 @@
 		</item>
 		<item>
 			<title>Version 1.4</title>
-			<sparkle:releaseNotesLink>https://raw.github.com/fergusean/scrup/master/admin/release-notes.html#version-1.4</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>http://fergusean.github.com/scrup/release-notes.html#version-1.4</sparkle:releaseNotesLink>
 			<pubDate>Wed, 11 Jul 2012 03:10:20 -0400</pubDate>
 			<enclosure
 				url="https://github.com/downloads/fergusean/scrup/scrup-1.4.zip"
