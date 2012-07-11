@@ -438,10 +438,11 @@ extern int pngcrush_main(int argc, char *argv[]);
 	paths = [files keysSortedByValueUsingComparator:^(id a, id b) { return [b compare:a]; }];
 
 	// process each file
-	for (NSString *path in paths) {
-		[self vacuumUploadedScreenshots];
+	for (NSString *path in paths)
 		[self processScreenshotAtPath:path modifiedAtDate:[files objectForKey:path]];
-	}
+    
+    // clean up screenshot history
+    [self vacuumUploadedScreenshots];
 }
 
 
