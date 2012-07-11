@@ -77,5 +77,16 @@
 				sparkle:dsaSignature="MC0CFQCKr+VNFy6pDKUzGRioEL1MN4z3pgIUTeWhIhTrgNIna4pbb2i96we3bD8="
 			/>
 		</item>
+		<item>
+			<title>Version 1.4</title>
+			<sparkle:releaseNotesLink>https://raw.github.com/fergusean/scrup/master/admin/release-notes.html#version-1.4</sparkle:releaseNotesLink>
+			<pubDate>Wed, 11 Jul 2012 03:10:20 -0400</pubDate>
+			<enclosure
+				url="https://github.com/downloads/fergusean/scrup/scrup-1.4.zip"
+				sparkle:version="1.4"
+				type="application/octet-stream"
+				length="814966"
+			/>
+		</item>
 	</channel>
 </rss>

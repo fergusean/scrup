@@ -5,11 +5,9 @@
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedURL</key>
-	<string>http://hunch.se/scrup/appcast.xml</string>
+	<string>https://raw.github.com/fergusean/scrup/master/admin/appcast.xml</string>
 	<key>SUScheduledCheckInterval</key>
 	<integer>30000</integer>
-	<key>SUPublicDSAKeyFile</key>
-	<string>dsa_pub.pem</string>
 	<key>LSUIElement</key>
 	<true/>
 	<key>LSMinimumSystemVersion</key>
